@@ -38,7 +38,7 @@ communication, and managing incidents in line with service targets.
 
 **Featured Projects**
 
-- - **[PowerShell IT Toolkit](https://github.com/LukeJ-97/your-repository-name)** — Scripts for common Windows support tasks.
+- - **[PowerShell IT Toolkit](https://github.com/LukeJ-97/PowerShell-IT-ToolKit)** — Scripts for common Windows support tasks.
 
 ## Certifications in Progress
 
