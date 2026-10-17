@@ -69,7 +69,7 @@ communication, and managing incidents in line with service targets.
 
 **Google Certification**
 
-- - **[PowerShell IT Toolkit](https://github.com/LukeJ-97/your-repository-name)** — Scripts for common Windows support tasks.Google Workspace Administrator certification 
+- Google Workspace Administrator certification 
 
 **CompTIA certifications**
 - CompTIA Security+
